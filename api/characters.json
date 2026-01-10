@@ -1,0 +1,32 @@
+{
+    "0": {
+        "ID": 0,
+        "Name": "Null",
+        "Gender": "Unknown",
+        "Colour": "Black"
+    },
+    "1": {
+        "ID": 1,
+        "Name": "Start of Heading",
+        "Gender": "Male",
+        "Colour": "Red"
+    },
+    "2": {
+        "ID": 2,
+        "Name": "Start of Text",
+        "Gender": "Male",
+        "Colour": "Green"
+    },
+    "3": {
+        "ID": "3",
+        "Name": "End of Text",
+        "Gender": "Female",
+        "Colour": "Pink"
+    },
+    "4": {
+        "ID": "4",
+        "Name": "End of Transmission",
+        "Gender": "Female",
+        "Colour": "Blue"
+    }
+}
