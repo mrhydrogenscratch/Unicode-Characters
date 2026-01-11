@@ -37,8 +37,10 @@ def add_character(character: dict):
     characters[character_id]={
         "ID": character_id,
         "Name": character.get("Name"),
-        "Gender": character.get("Gender",),
-        "Colour": character.get("Colour")
+        "Category": character.get("Category"),
+        "Gender": character.get("Gender"),
+        "Colour": character.get("Colour"),
+        "Description": character.get("Description")
     }
 
     # Save dictionary to a JSON file

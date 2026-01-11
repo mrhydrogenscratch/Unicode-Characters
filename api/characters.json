@@ -2,31 +2,129 @@
     "0": {
         "ID": 0,
         "Name": "Null",
+        "Category": "Control",
         "Gender": "Unknown",
-        "Colour": "Black"
+        "Colour": "Black",
+        "Description": "A black hole with no face, no limbs, no voice, and no personality."
     },
     "1": {
         "ID": 1,
         "Name": "Start of Heading",
+        "Category": "Control",
         "Gender": "Male",
-        "Colour": "Red"
+        "Colour": "Red",
+        "Description": "An arrogant character who believes he is the most important part of any message. Best friends with Start of Text."
     },
     "2": {
         "ID": 2,
         "Name": "Start of Text",
+        "Category": "Control",
         "Gender": "Male",
-        "Colour": "Green"
+        "Colour": "Green",
+        "Description": "A character who is always texting. Similar to Start of Heading, but more laid back."
     },
     "3": {
         "ID": "3",
         "Name": "End of Text",
+        "Category": "Control",
         "Gender": "Female",
-        "Colour": "Pink"
+        "Colour": "Pink",
+        "Description": "Start of Text's polar opposite. She is very formal and proper, always insisting on ending conversations politely."
     },
     "4": {
         "ID": "4",
         "Name": "End of Transmission",
+        "Category": "Control",
         "Gender": "Female",
-        "Colour": "Blue"
+        "Colour": "Blue",
+        "Description": "Always pranking others by cutting off their messages abruptly. She loves chaos and confusion."
+    },
+    "5": {
+        "ID": "5",
+        "Name": "Enquiry",
+        "Category": "Control",
+        "Gender": "Male",
+        "Colour": "Yellow",
+        "Description": "A curious character who is always asking questions. He is friendly and eager to learn about anything and everything."
+    },
+    "6": {
+        "ID": 6,
+        "Name": "Acknowledge",
+        "Category": "Control",
+        "Gender": "Male",
+        "Colour": "Purple",
+        "Description": "Very polite and always acknowledging things. It annoys the other characters that he always acknowledges the people that made it happen."
+    },
+    "7": {
+        "ID": "7",
+        "Name": "Alert",
+        "Category": "Control",
+        "Gender": "Female",
+        "Colour": "Red",
+        "Description": "Always alert. Rings bells, annoys other characters. Generally unpopular among the characters."
+    },
+    "8": {
+        "ID": "8",
+        "Name": "Backspace",
+        "Category": "Control",
+        "Gender": "Male",
+        "Colour": "Blue",
+        "Description": "Walks backwards instead of forwards. Can go back in time. But personality-wise, he's an all-rounded nice guy. "
+    },
+    "9": {
+        "ID": "9",
+        "Name": "Character Tabulation",
+        "Category": "Control",
+        "Gender": "Male",
+        "Colour": "Orange",
+        "Description": "Character Tabulation, or Tab for short, is a good athlete. He can jump over four spaces. He can run the distance of four spaces in a millisecond."
+    },
+    "10": {
+        "ID": "10",
+        "Name": "End of Line",
+        "Category": "Control",
+        "Gender": "Male",
+        "Colour": "Brown",
+        "Description": "End of Line hates, and I mean HATES, lines. He stamps on pens, causing lines to stop being drawn. Line Tabulation is his arch-enemy and they fight when possible."
+    },
+    "11": {
+        "ID": "11",
+        "Name": "Line Tabulation",
+        "Category": "Control",
+        "Gender": "Female",
+        "Colour": "Orange",
+        "Description": "Character Tabulation's sister who loves, and I mean LOVES, lines. End of Line is her arch-enemy and they fight when possible."
+    },
+    "12": {
+        "ID": "12",
+        "Name": "Form Feed",
+        "Category": "Control",
+        "Gender": "Female",
+        "Colour": "Green",
+        "Description": "Form Feed, better known as Page Break, feeds people (in many forms) and rips pages apart. She doesn't really do much apart from that."
+    },
+    "13": {
+        "ID": "13",
+        "Name": "Carriage Return",
+        "Category": "Control",
+        "Gender": "Female",
+        "Colour": "White",
+        "Description": "A sweet character who has the power to reverse time. Also she likes doing new stuff, like creating a new line when space runs out!"
+    },
+    "14": {
+        "ID": "14",
+        "Name": "Locking-Shift One",
+        "Category": "Control",
+        "Gender": "Female",
+        "Colour": "Red",
+        "Description": "She is constantly mixed up with Locking-Shift Zero, her near-identical twin. This makes her very mad. and so LS0 often needs to calm her down."
+    },
+    "15": {
+        "ID": "15",
+        "Name": "Locking-Shift Zero",
+        "Category": "Control",
+        "Gender": "Male",
+        "Colour": "Black",
+        "Description": "He is constantly mixed up with Locking-Shift One, his near-identical twin. This makes LS1 very mad. and so he often needs to calm her down."
     }
 }

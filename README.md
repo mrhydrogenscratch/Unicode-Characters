@@ -1,10 +1,10 @@
 
-# API
+# How to load the API
 ```bash
 cd api
 uvicorn main:app --reload
 ```
-# Streamlit
+# How to load the Streamlit app
 ```bash
 cd streamlit
 streamlit run streamlit_app.py

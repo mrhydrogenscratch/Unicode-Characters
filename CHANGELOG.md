@@ -1,0 +1,9 @@
+# V1.0.0: The Initial Relase
+    · 5 characters: 0 to 4
+    · 4 fields: ID, Number, Gender, Colour
+    · Created the API and the Streamlit app
+    · Created the 'Submit Character' box
+## V1.1.0: The Description Update
+    · Added Changelog
+    · Added 11 characters: 5 to 15
+    · Added 2 fields: Category and Description
