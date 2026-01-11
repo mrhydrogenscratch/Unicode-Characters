@@ -5,7 +5,8 @@
         "Category": "Control",
         "Gender": "Unknown",
         "Colour": "Black",
-        "Description": "A black hole with no face, no limbs, no voice, and no personality."
+        "Description": "A black hole with no face, no limbs, no voice, and no personality.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "1": {
         "ID": 1,
@@ -13,7 +14,8 @@
         "Category": "Control",
         "Gender": "Male",
         "Colour": "Red",
-        "Description": "An arrogant character who believes he is the most important part of any message. Best friends with Start of Text."
+        "Description": "An arrogant character who believes he is the most important part of any message. Best friends with Start of Text.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "2": {
         "ID": 2,
@@ -21,7 +23,8 @@
         "Category": "Control",
         "Gender": "Male",
         "Colour": "Green",
-        "Description": "A character who is always texting. Similar to Start of Heading, but more laid back."
+        "Description": "A character who is always texting. Similar to Start of Heading, but more laid back. Still pretty cocky though...",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "3": {
         "ID": "3",
@@ -29,7 +32,8 @@
         "Category": "Control",
         "Gender": "Female",
         "Colour": "Pink",
-        "Description": "Start of Text's polar opposite. She is very formal and proper, always insisting on ending conversations politely."
+        "Description": "Start of Text's polar opposite. She is very formal and proper, always insisting on ending conversations politely.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "4": {
         "ID": "4",
@@ -37,7 +41,8 @@
         "Category": "Control",
         "Gender": "Female",
         "Colour": "Blue",
-        "Description": "Always pranking others by cutting off their messages abruptly. She loves chaos and confusion."
+        "Description": "Always pranking others by cutting off their messages abruptly. She loves chaos and confusion.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "5": {
         "ID": "5",
@@ -45,7 +50,8 @@
         "Category": "Control",
         "Gender": "Male",
         "Colour": "Yellow",
-        "Description": "A curious character who is always asking questions. He is friendly and eager to learn about anything and everything."
+        "Description": "A curious character who is always asking questions. He is friendly and eager to learn about anything and everything.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "6": {
         "ID": 6,
@@ -53,7 +59,8 @@
         "Category": "Control",
         "Gender": "Male",
         "Colour": "Purple",
-        "Description": "Very polite and always acknowledging things. It annoys the other characters that he always acknowledges the people that made it happen."
+        "Description": "Very polite and always acknowledging things. It annoys the other characters that he always acknowledges the people that made it happen.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "7": {
         "ID": "7",
@@ -61,7 +68,8 @@
         "Category": "Control",
         "Gender": "Female",
         "Colour": "Red",
-        "Description": "Always alert. Rings bells, annoys other characters. Generally unpopular among the characters."
+        "Description": "Always alert. Rings bells, annoys other characters. Generally unpopular among the characters.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "8": {
         "ID": "8",
@@ -69,7 +77,8 @@
         "Category": "Control",
         "Gender": "Male",
         "Colour": "Blue",
-        "Description": "Walks backwards instead of forwards. Can go back in time. But personality-wise, he's an all-rounded nice guy. "
+        "Description": "Walks backwards instead of forwards. Can go back in time. But personality-wise, he's an all-rounded nice guy.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "9": {
         "ID": "9",
@@ -77,7 +86,8 @@
         "Category": "Control",
         "Gender": "Male",
         "Colour": "Orange",
-        "Description": "Character Tabulation, or Tab for short, is a good athlete. He can jump over four spaces. He can run the distance of four spaces in a millisecond."
+        "Description": "Character Tabulation, or Tab for short, is a good athlete. He can jump over four spaces. He can run the distance of four spaces in a millisecond.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "10": {
         "ID": "10",
@@ -85,7 +95,8 @@
         "Category": "Control",
         "Gender": "Male",
         "Colour": "Brown",
-        "Description": "End of Line hates, and I mean HATES, lines. He stamps on pens, causing lines to stop being drawn. Line Tabulation is his arch-enemy and they fight when possible."
+        "Description": "End of Line hates, and I mean HATES, lines. He stamps on pens, causing lines to stop being drawn. Line Tabulation is his arch-enemy and they fight when possible.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "11": {
         "ID": "11",
@@ -93,7 +104,8 @@
         "Category": "Control",
         "Gender": "Female",
         "Colour": "Orange",
-        "Description": "Character Tabulation's sister who loves, and I mean LOVES, lines. End of Line is her arch-enemy and they fight when possible."
+        "Description": "Character Tabulation's sister who loves, and I mean LOVES, lines. End of Line is her arch-enemy and they fight when possible.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "12": {
         "ID": "12",
@@ -101,7 +113,8 @@
         "Category": "Control",
         "Gender": "Female",
         "Colour": "Green",
-        "Description": "Form Feed, better known as Page Break, feeds people (in many forms) and rips pages apart. She doesn't really do much apart from that."
+        "Description": "Form Feed, better known as Page Break, feeds people (in many forms) and rips pages apart. She doesn't really do much apart from that.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "13": {
         "ID": "13",
@@ -109,7 +122,8 @@
         "Category": "Control",
         "Gender": "Female",
         "Colour": "White",
-        "Description": "A sweet character who has the power to reverse time. Also she likes doing new stuff, like creating a new line when space runs out!"
+        "Description": "A sweet character who has the power to reverse time. Also she likes doing new stuff, like creating a new line when space runs out!",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "14": {
         "ID": "14",
@@ -117,7 +131,8 @@
         "Category": "Control",
         "Gender": "Female",
         "Colour": "Red",
-        "Description": "She is constantly mixed up with Locking-Shift Zero, her near-identical twin. This makes her very mad. and so LS0 often needs to calm her down."
+        "Description": "She is constantly mixed up with Locking-Shift Zero, her near-identical twin. This makes her very mad. and so LS0 often needs to calm her down.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     },
     "15": {
         "ID": "15",
@@ -125,6 +140,7 @@
         "Category": "Control",
         "Gender": "Male",
         "Colour": "Black",
-        "Description": "He is constantly mixed up with Locking-Shift One, his near-identical twin. This makes LS1 very mad. and so he often needs to calm her down."
+        "Description": "He is constantly mixed up with Locking-Shift One, his near-identical twin. This makes LS1 very mad. and so he often needs to calm her down.",
+        "Image": "/Users/phox/Downloads/Unicode-Characters/teebeedee.jpg"
     }
 }

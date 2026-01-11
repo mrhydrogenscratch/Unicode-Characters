@@ -22,12 +22,30 @@ if character_id is not None:
                 data = response.json()
                 print(data)
                 for key, value in data.items():
-                    display_key = "ID" if key.lower() == "id" else key.capitalize()
-                    st.write(f"**{display_key}:** {value}")
+                    print(key)
+                    if key == "Image":
+                        st.image(value, width=500)
+                    else:
+                        display_key = "ID" if key == "ID" else key.capitalize()
+                        st.write(f"**{display_key}:** {value}")
             else:
                 st.error(f"Error {response.status_code}: {response.json().get('detail', 'Unknown error')}")
-        except requests.exceptions.ConnectionError:
-            st.error("Unable to connect to the API. Make sure the FastAPI server is running.")
+        except Exception as e:
+            st.error(f"Unable to connect to the API. Make sure the FastAPI server is running: {e}")
+
+with st.expander("### List of Characters"):
+    with st.spinner("Fetching character data..."):
+        try:
+            response = requests.get(f"http://127.0.0.1:8000/list_characters/")
+            if response.status_code == 200:
+                data = response.json()
+                for character in data:
+                        st.write(f"{character['ID']} - {character['Name']}")
+            else:
+                st.error(f"Error {response.status_code}: {response.json().get('detail', 'Unknown error')}")
+        except Exception as e:
+            st.error(f"Unable to connect to the API. Make sure the FastAPI server is running: {e}")
+
 
 # Section for submitting new Unicode character data
 with st.expander("### Submit New Unicode Character Data"):

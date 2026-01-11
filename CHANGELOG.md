@@ -7,3 +7,6 @@
     · Added Changelog
     · Added 11 characters: 5 to 15
     · Added 2 fields: Category and Description
+# 2.0.0: The Image Update
+    · Added a TBD image for each character
+    · Added a list of characters with IDs

@@ -22,6 +22,11 @@ def get_character(character_id: int):
         raise HTTPException(status_code=404, detail="Character not found")
     return character
 
+@app.get("/list_characters")
+def list_characters():
+    characters = get_characters()
+    return [{"ID": char["ID"], "Name": char["Name"]} for char in characters.values()]
+
 @app.post("/characters")
 def add_character(character: dict):
     character_id = str(character.get("ID"))
