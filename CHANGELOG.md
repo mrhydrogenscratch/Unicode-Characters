@@ -10,3 +10,8 @@
 # 2.0.0: The Image Update
     · Added a TBD image for each character
     · Added a list of characters with IDs
+## 2.1.0: The Better Streamlit Update
+    · Added headings to the Streamlit app
+    · Changed data layout on the Streamlit app
+    · No more dropdowns
+    · Image entry is now drag-and-drop
